@@ -12,4 +12,13 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
