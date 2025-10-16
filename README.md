@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AbhayAmoli/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AbhayAmoli/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Recursion
 |  |
@@ -42,4 +44,12 @@
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Sorting
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
