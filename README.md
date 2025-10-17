@@ -19,6 +19,7 @@
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Array
 |  |
 | ------- |
@@ -52,4 +53,16 @@
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
