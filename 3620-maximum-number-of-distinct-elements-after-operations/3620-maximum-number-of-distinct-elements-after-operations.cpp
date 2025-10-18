@@ -1,17 +1,25 @@
 class Solution {
- public:
-  int maxDistinctElements(vector<int>& nums, int k) {
-    int ans = 0;
-    int occupied = INT_MIN;
+public:
+    int maxDistinctElements(vector<int>& nums, int k) {
+        ranges::sort(nums);
 
-    ranges::sort(nums);
+        int distinctCount = 0;
+        int previousValue = INT_MIN;
+      
+        for (int currentNum : nums) {
 
-    for (const int num : nums)
-      if (occupied < num + k) {
-        occupied = max(occupied + 1, num - k);
-        ++ans;
-      }
+            int lowerBound = currentNum - k;
+            int minValidValue = max(lowerBound, previousValue + 1);
+            int upperBound = currentNum + k;
+            int selectedValue = min(upperBound, minValidValue);
 
-    return ans;
-  }
+            if (selectedValue > previousValue) {
+    
+                distinctCount++;
+                previousValue = selectedValue;
+            }
+        }
+      
+        return distinctCount;
+    }
 };
