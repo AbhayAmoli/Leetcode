@@ -1,33 +1,37 @@
 class Solution {
- public:
-  string findLexSmallestString(string s, int a, int b) {
-    string ans = s;
+public:
+    string findLexSmallestString(string s, int a, int b) {
+        queue<string> q;
+        unordered_set<string> visited;
+        string res = s;
 
-    dfs(s, a, b, {}, ans);
+        q.push(s);
+        visited.insert(s);
 
-    return ans;
-  }
+        while (!q.empty()) {
+            string cur = q.front();
+            q.pop();
 
- private:
-  void dfs(string s, int a, int b, unordered_set<string>&& seen, string& ans) {
-    if (seen.contains(s))
-      return;
+            res = min(res, cur);
 
-    seen.insert(s);
-    ans = min(ans, s);
+            string added = cur;
+            for (int i = 1; i < added.size(); i += 2) {
+                added[i] = (added[i] - '0' + a) % 10 + '0';
+            }
 
-    dfs(add(s, a), a, b, std::move(seen), ans);
-    dfs(rotate(s, b), a, b, std::move(seen), ans);
-  }
+            if (!visited.count(added)) {
+                visited.insert(added);
+                q.push(added);
+            }
 
-  string add(string& s, int a) {
-    for (int i = 1; i < s.length(); i += 2)
-      s[i] = '0' + (s[i] - '0' + a) % 10;
-    return s;
-  }
+            string rotated = cur.substr(cur.size() - b) + cur.substr(0, cur.size() - b);
 
-  string rotate(const string& s, int b) {
-    const int n = s.length();
-    return s.substr(n - b, n) + s.substr(0, n - b);
-  }
+            if (!visited.count(rotated)) {
+                visited.insert(rotated);
+                q.push(rotated);
+            }
+        }
+
+        return res;
+    }
 };
