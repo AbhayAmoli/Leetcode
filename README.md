@@ -19,6 +19,7 @@
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Array
 |  |
@@ -70,4 +71,16 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
