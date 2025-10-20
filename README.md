@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhayAmoli/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AbhayAmoli/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhayAmoli/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -50,11 +51,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhayAmoli/Leetcode/tree/master/0011-container-with-most-water) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhayAmoli/Leetcode/tree/master/0011-container-with-most-water) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
