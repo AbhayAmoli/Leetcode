@@ -1,28 +1,25 @@
 class Solution {
- public:
-  int maxFrequency(vector<int>& nums, int k, int numOperations) {
-    int ans = 1;
-    int adjustable = 0;
-    unordered_map<int, int> count;
-    map<int, int> line;
-    set<int> candidates;
+public:
+    int maxFrequency(vector<int>& nums, int k, int numOperations) {
+        unordered_map<int, int> frequencyMap;
+        map<int, int> rangeDifference;
 
-    for (const int num : nums) {
-      ++count[num];
-      ++line[num - k];
-      --line[num + k + 1];
-      candidates.insert(num);
-      candidates.insert(num - k);
-      candidates.insert(num + k + 1);
+        for (int num : nums) {
+         
+            frequencyMap[num]++;
+            rangeDifference[num];
+            rangeDifference[num - k]++;
+            rangeDifference[num + k + 1]--;
+        }
+      
+        int maxResult = 0;
+        int currentRangeCount = 0;  
+      
+        for (const auto& [position, difference] : rangeDifference) {
+            currentRangeCount += difference;
+            maxResult = max(maxResult, min(currentRangeCount, frequencyMap[position] + numOperations));
+        }
+      
+        return maxResult;
     }
-
-    for (const int num : candidates) {
-      adjustable += line.contains(num) ? line[num] : 0;
-      const int countNum = count.contains(num) ? count[num] : 0;
-      const int adjusted = adjustable - countNum;
-      ans = max(ans, countNum + min(numOperations, adjusted));
-    }
-
-    return ans;
-  }
 };
