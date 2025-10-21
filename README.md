@@ -34,6 +34,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AbhayAmoli/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhayAmoli/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AbhayAmoli/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhayAmoli/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,12 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
