@@ -15,18 +15,16 @@ class Solution {
     return num1 == num2;
   }
 
-  // Returns (n, k) % 10.
   private int nCMOD10(int n, int k) {
     final int mod2 = lucasTheorem(n, k, 2);
     final int mod5 = lucasTheorem(n, k, 5);
     int[][] lookup = {
-        {0, 6, 2, 8, 4}, // mod2 == 0
-        {5, 1, 7, 3, 9}  // mod2 == 1
+        {0, 6, 2, 8, 4}, 
+        {5, 1, 7, 3, 9}  
     };
     return lookup[mod2][mod5];
   }
 
-  // Returns (n, k) % prime.
   private int lucasTheorem(int n, int k, int prime) {
     int res = 1;
     while (n > 0 || k > 0) {
@@ -40,7 +38,6 @@ class Solution {
     return res;
   }
 
-  // Returns (n, k).
   private int nCk(int n, int k) {
     int res = 1;
     for (int i = 0; i < k; ++i) {
