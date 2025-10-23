@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhayAmoli/Leetcode/tree/master/0050-powx-n) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +113,12 @@
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AbhayAmoli/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
