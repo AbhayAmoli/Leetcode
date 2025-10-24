@@ -1,27 +1,28 @@
 class Solution {
 public:
     bool isBalanced(int x) {
-        string s = to_string(x);
         vector<int> count(10, 0);
-
-        for (char c : s)
-            count[c - '0']++;
-
-        // Check numerical balance condition
-        for (char c : s) {
-            int d = c - '0';
-            if (count[d] != d)
+        int y = x;
+        while (y > 0) {
+            int d = y % 10;
+            if (d == 0) return false;
+            count[d]++;
+            y /= 10;
+        }
+        for (int d = 1; d <=9; ++d){
+            if(count[d] > 0 && count[d] != d){
                 return false;
+            }
         }
         return true;
     }
 
     int nextBeautifulNumber(int n) {
-        int num = n + 1;
-        while (true) {
-            if (isBalanced(num))
-                return num;
-            num++;
+        for (int i = n+1; i<= 1224444; ++i){
+            if (isBalanced(i)) {
+                return i;
+            }
         }
+        return -1;
     }
 };
