@@ -5,6 +5,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Math
 |  |
@@ -12,6 +13,7 @@
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhayAmoli/Leetcode/tree/master/0050-powx-n) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
 | ------- |
@@ -125,4 +128,9 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/AbhayAmoli/Leetcode/tree/master/0077-combinations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
