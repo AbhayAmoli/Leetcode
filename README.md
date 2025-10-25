@@ -13,6 +13,7 @@
 | [0012-integer-to-roman](https://github.com/AbhayAmoli/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhayAmoli/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhayAmoli/Leetcode/tree/master/0050-powx-n) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AbhayAmoli/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AbhayAmoli/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AbhayAmoli/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhayAmoli/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
