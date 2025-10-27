@@ -1,18 +1,17 @@
 class Solution {
-public:
-    int numberOfBeams(vector<string>& bank) {
-        int totalBeams = 0;          
-        int previousDeviceCount = 0;  
-      
-        for (const auto& row : bank) {
-            int currentDeviceCount = count(row.begin(), row.end(), '1');
-          
-            if (currentDeviceCount > 0) {
-                totalBeams += previousDeviceCount * currentDeviceCount;
-                previousDeviceCount = currentDeviceCount;
-            }
-        }
-      
-        return totalBeams;
+ public:
+  int numberOfBeams(vector<string>& bank) {
+    int ans = 0;
+    int prevOnes = 0;
+
+    for (const string& row : bank) {
+      const int ones = ranges::count(row, '1');
+      if (ones > 0) {
+        ans += prevOnes * ones;
+        prevOnes = ones;
+      }
     }
+
+    return ans;
+  }
 };
